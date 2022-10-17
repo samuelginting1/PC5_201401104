@@ -1,7 +1,5 @@
-# PC2_Tugas3_nim
-### Nama
-### PC 2
+# PC5_Tugas3_201401104
+### Samuel Rejekinta Ginting
+### PC 5
 
-
-###### Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.
-> Screenshot tampilan dimasukkan dalam readme
+![Screenshot (48)](https://user-images.githubusercontent.com/102474494/196152692-75db98c9-2f4e-4fbb-888f-fba2e680b89d.png)
